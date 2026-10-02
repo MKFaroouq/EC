@@ -1,0 +1,11 @@
+packages:
+  - "."
+
+nodeLinker: hoisted
+confirmModulesPurge: false
+
+overrides:
+  pathe: 2.0.2
+
+allowBuilds:
+  esbuild: true
